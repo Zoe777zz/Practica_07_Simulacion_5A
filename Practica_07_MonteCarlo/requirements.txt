@@ -1,0 +1,2 @@
+# Solo para las graficas: la simulacion usa la biblioteca estandar.
+matplotlib>=3.7
