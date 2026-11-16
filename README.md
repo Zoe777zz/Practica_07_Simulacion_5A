@@ -1,5 +1,5 @@
 
-# Practica 07 - Monte Carlo con MVC (Python y Java)
+# Practica 07 - Monte Carlo 
 
 **Asignatura:** Simulacion | **Sistema:** Ubuntu / Debian | **Arquitectura:** Modelo-Vista-Controlador (MVC)
 
